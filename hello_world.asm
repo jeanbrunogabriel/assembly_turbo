@@ -1,7 +1,7 @@
 ; ssize_t write(int fd, const void *buf, size_t count);
 
 section .data
-mensagem: db "HELLO", 0xa
+mensagem: db "HELLO WORLD", 0xa
 tamanho: equ $ - mensagem
 
 section .text
