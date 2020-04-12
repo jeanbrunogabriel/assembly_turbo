@@ -7,5 +7,6 @@ Automatizando rotinas para arquivos .asm
 2. cd assembly_turbo
 3. ./autoGenerateASMexec.sh helloworld.asm 
 	ou ./autoGenerateASMexec.sh <seu_arquivo.asm>
-4. ./helloworld
+
+4. ./helloworld 
 	ou ./<seu_arquivo.asm>
